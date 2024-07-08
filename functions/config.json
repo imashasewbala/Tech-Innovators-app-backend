@@ -1,0 +1,32 @@
+[
+    {
+        "name": "add_user",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "get_user_by_email",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "login",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "add_feedback",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "get_feedback_by_email",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    }
+]
